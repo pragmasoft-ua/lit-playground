@@ -1,0 +1,15 @@
+{
+  "name": "@pragmasoft/lit-lib",
+  "version": "2022.5.1",
+  "source": "src/index.ts",
+  "module": "dist/module.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lit": "^2.2.4"
+  }
+}

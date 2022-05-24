@@ -1,0 +1,9 @@
+{
+  "name": "@pragmasoft/lit-app",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "jest"
+  }
+}
